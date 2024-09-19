@@ -22,4 +22,7 @@ Modularized CSS: The style is separated into an external CSS file for easier mai
 
 Clean and Simple Design: Uses rounded edges, light shadows and adequate spacing to make the layout modern and organized. Avatar images are round and there is space between the text and the avatar.
 
-Visual Interactivity: The code includes a simple likes area, highlighting social interaction, without additional complexity.
+Visual Interactivity: The code includes a simple likes area, highlighting social interaction, without additional complexity. 
+
+
+![Resultado](https://github.com/user-attachments/assets/8ea5213c-dcd0-47cb-b915-22821c506481)
